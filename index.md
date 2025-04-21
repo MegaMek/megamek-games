@@ -7,7 +7,7 @@ The public servers below are provided by members of the community with a
 commitment to keep them updated and cover the cost of running them.
 
 If you have any issues with setup, or need more clarification, this site is
-hosted on Github Pages. Please open an issue at its [Repository](https://github.com/rjhancock/megamek-games).
+hosted on Github Pages. Please open an issue at its [Repository](https://github.com/MegaMek/megamek-games).
 
 ## Public Servers
 
@@ -18,7 +18,6 @@ added, removed, and updated.
 |Server Name|Port Number|Version|Game Size|Provided By|
 |:------|:-----:|:--------:|:--:|-------:|
 |||*Milestone*|||
-|ghost-bear.megamek.games     |2346|0.49.19.1 (Milestone)|1700M - Regimental? |TapEnvy.us, LLC|
 |sldf.megamek.games           |2346|0.49.19.1 (Milestone)|768M - Companies    |MegaMek Team|
 |ralias-raiders.megamek.games |2830|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
 |ralias-raiders.megamek.games |2866|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
@@ -31,7 +30,6 @@ added, removed, and updated.
 |ralias-raiders.megamek.games |3081|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
 ||||||
 |||*Development*|||
-|diamond-shark.megamek.games  |2346|0.50.04|1700M - Regimental? |TapEnvy.us, LLC|
 |hells-horses.megamek.games   |2346|0.50.03|768M - Companies    |MegaMek Team|
 |blackhearts.megamek.games    |2346|0.50.03|768M - Companies    |MegaMek Team|
 |wolverines.megamek.games     |2346|0.50.03|768M - Companies    |MegaMek Team|
@@ -74,8 +72,6 @@ The servers below restart at the designated times:
 
 |Server Name|Restart Schedule|
 |:---------:|:--------------:|
-|Ghost Bear     | Daily at 0115 UTC|
-|Diamond Shark  | Daily at 0115 UTC|
 |Ralias Raiders | Sunday at 0500 UTC|
 
 ## Voice Channels
