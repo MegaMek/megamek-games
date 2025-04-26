@@ -30,9 +30,9 @@ added, removed, and updated.
 |ralias-raiders.megamek.games |3081|0.49.19.1 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
 ||||||
 |||*Development*|||
-|hells-horses.megamek.games   |2346|0.50.03|768M - Companies    |MegaMek Team|
-|blackhearts.megamek.games    |2346|0.50.03|768M - Companies    |MegaMek Team|
-|wolverines.megamek.games     |2346|0.50.03|768M - Companies    |MegaMek Team|
+|hells-horses.megamek.games   |2346|0.50.05|768M - Companies    |MegaMek Team|
+|blackhearts.megamek.games    |2346|0.50.05|768M - Companies    |MegaMek Team|
+|wolverines.megamek.games     |2346|0.50.05|768M - Companies    |MegaMek Team|
 |houseofmors.megamek.games    |2346|0.50.03|768M - Companies    |Mors2657|
 |houseofmors2.megamek.games   |2346|0.50.03|768M - Companies    |Mors2657|
 |ralias-raiders.megamek.games |2823|0.50.04|2048M - Regimental? |[RR] Sierra Invenio|
